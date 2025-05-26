@@ -1,4 +1,4 @@
-<h1> Atividade Avaliativa do Curso de Ciência da Computação (Primeiro semestre) - PROGRAMAÇÃO DE SOLUÇÕES COMPUTACIONAIS </h1>
+<h1> Atividade do Curso de Ciência da Computação - PROGRAMAÇÃO DE SOLUÇÕES COMPUTACIONAIS </h1>
 
 
 <p>Implemente um sistema em linguagem de programação Java utilizando a IDE de sua preferência. Algumas sugestões são: Eclipse, NetBeans, IntelliJ e Replit. No slide seguinte,  a entrega deverá ser realizada com a inserção do link de repositório de códigos que contenha os diferentes arquivos e partes do código utilizados.
